@@ -257,7 +257,7 @@
 }
 
 /* xs */
-@media all and (min-width: 992px) {
+@media all and (max-width: 767px) {
 
     .col-xs-1 {
         width: calc( ( 100% / 12 ) * 1 );
